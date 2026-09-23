@@ -1,0 +1,11 @@
+<svg width="720" height="820" viewBox="0 0 720 820" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="820" rx="48" fill="#F1E3D6"/>
+  <rect x="62" y="52" width="596" height="716" rx="32" fill="#F8F5F0" stroke="#D9C9BA" stroke-width="2"/>
+  <circle cx="360" cy="268" r="136" fill="#49362D" fill-opacity="0.12"/>
+  <path d="M239 580C239 496.5 294.5 440 360 440C425.5 440 481 496.5 481 580V646H239V580Z" fill="#A47755"/>
+  <path d="M302 337C302 289.1 340.1 251 388 251H406C454.6 251 493 289.4 493 338V348C493 413.3 439.3 467 374 467H346C304.7 467 272 434.3 272 393V382C272 355.5 294.5 334 321 334H353C317.1 334 302 340.7 302 337Z" fill="#35251F"/>
+  <path d="M308 294C328.9 255.9 380.8 230 421 240C456.7 249 490 278.6 500 312C480 307.7 456.4 307 438 311C410.7 316.6 391.7 333.5 377 356C354.6 336.6 334.3 322.4 308 294Z" fill="#35251F"/>
+  <rect x="74" y="98" width="124" height="48" rx="24" fill="#E9DFD4"/>
+  <rect x="522" y="96" width="110" height="48" rx="24" fill="#E9DFD4"/>
+  <text x="360" y="686" text-anchor="middle" font-family="Georgia, serif" font-size="72" fill="#35251F" letter-spacing="6">KN</text>
+</svg>

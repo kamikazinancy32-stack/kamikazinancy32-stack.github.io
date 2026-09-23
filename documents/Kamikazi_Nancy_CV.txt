@@ -1,0 +1,38 @@
+KAMIKAZI NANCY
+Software Developer & Computer Science Aspirant
+
+Profile
+- Rwandan aspiring computer scientist and software developer
+- BTEC Level 3 Information Technology, Distinction* Distinction* Distinction*
+- Interested in software engineering, AI, mobile development, and social-impact technology
+- Based in Kigali, Rwanda
+
+Skills
+- JavaScript, TypeScript, Python, Java, Swift, C++
+- HTML5, CSS3, React, Vite, Tailwind CSS, Responsive Web Design
+- React Native, Expo, Android Studio
+- Firebase, Firebase Authentication, Cloud Firestore
+- Git, GitHub, Figma, Linux
+
+Projects
+- FemCare: digital women's health platform with mobile app and admin dashboard concepts
+- Apple Website Clone: responsive front-end recreation
+- Wikimedia Foundation Clone: structured, responsive web layout recreation
+- School Connect: digital school portal concept
+- MediConnect QR: healthcare QR information project
+- MoodiTunes: music-focused interactive application
+- KnewIt: personal care and lifestyle information app
+- Vibe Detector: interactive mood quiz web app
+
+Education
+- King David Academy
+  BTEC Level 3 Information Technology
+  Final result: Distinction* Distinction* Distinction*
+
+Experience
+- Software Development Intern / Trainee, AmaliTech (2026 – Present)
+- Entertainment & Sports Prefect, Secondary School
+
+Contact
+Email: kamikazinancy32@gmail.com
+GitHub: https://github.com/kamikazinancy32-stack
