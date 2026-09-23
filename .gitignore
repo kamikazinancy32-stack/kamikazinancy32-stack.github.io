@@ -1,0 +1,12 @@
+.kilo/
+node_modules/
+.env
+.env.local
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
